@@ -3,16 +3,16 @@
 
 
 let detail1=
-{            name:"HEMA",
-             gender:"female",
-             age:"25",
-             mobile:"9842390980",
+{            "name":"HEMA",
+             "gender":"female",
+             "age":"25",
+             "mobile":"9842390980",
              
 }
-let detail2={ name:"HEMA",
-               mobile:"9842390980",
-               gender:"female",
-               age:"25",
+let detail2={ "name":"HEMA",
+               "mobile":"9842390980",
+               "gender":"female",
+               "age":"25",
              
           
 }
